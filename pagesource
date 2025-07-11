@@ -1,0 +1,6 @@
+git clone https://github.com/username/catalog-site.git
+cd catalog-site
+echo "<h1>Hello Kitchen</h1>" > index.html
+git add .
+git commit -m "Init site"
+git push origin main
